@@ -1,1 +1,1 @@
-# gamanee
+# Gamanee SASS Mixins
