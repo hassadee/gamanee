@@ -1,6 +1,6 @@
-# Gamanee : Mixins Extension for SASS/SCSS
+# HCSS : Mixins Extension for SASS/SCSS
 
-Gamanee is a Mixins extension and CSS Authoring Framework for SASS/SCSS.
+HCSS is a Mixins extension and CSS Authoring Framework for SASS/SCSS.
 
 This will help you increase performance and reduce time of writing CSS. So you don't need to worry about browsers prefix anymore!
 
